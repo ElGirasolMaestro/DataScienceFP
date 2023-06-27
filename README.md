@@ -216,7 +216,7 @@ En resumen, este proyecto ha demostrado el valor de la analítica de datos y la 
  </a>
 </p>
 
-Copyright (c) 2022 FrancoSimonini
+Copyright (c) 2023 FrancoSimonini
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
